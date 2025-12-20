@@ -19,7 +19,7 @@ export const TARGET_WORD = "RUDOLPH";
 
 // Audio
 // Replace this URL with your specific song URL
-export const BGM_URL = "https://suno.com/s/hn37drdrv7Q5fCHm on/low_vibe.ogg"; 
+export const BGM_URL = "https://suno.com/s/hn37drdrv7Q5fCHm"; 
 
 export const COLORS = {
   BACKGROUND: '#020617',
